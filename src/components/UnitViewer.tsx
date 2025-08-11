@@ -1,4 +1,4 @@
-import { ImportedUnit } from "@/context/LibraryContext";
+import { ImportedUnit } from "@/services/DataService";
 
 interface Props {
   unit: ImportedUnit;

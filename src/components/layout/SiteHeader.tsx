@@ -10,14 +10,6 @@ export const SiteHeader = () => {
         </Link>
         <nav className="hidden gap-6 md:flex">
           <NavLink
-            to="/import"
-            className={({ isActive }) =>
-              `text-sm transition-colors hover:text-foreground ${isActive ? "text-foreground" : "text-muted-foreground"}`
-            }
-          >
-            Importieren
-          </NavLink>
-          <NavLink
             to="/library"
             className={({ isActive }) =>
               `text-sm transition-colors hover:text-foreground ${isActive ? "text-foreground" : "text-muted-foreground"}`

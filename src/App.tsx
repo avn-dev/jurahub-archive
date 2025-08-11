@@ -9,7 +9,6 @@ import NotFound from "./pages/NotFound";
 import { SiteHeader } from "./components/layout/SiteHeader";
 import { SiteFooter } from "./components/layout/SiteFooter";
 import { LibraryProvider } from "./context/LibraryContext";
-import Import from "./pages/Import";
 import Library from "./pages/Library";
 
 const queryClient = new QueryClient();
@@ -26,7 +25,6 @@ const App = () => (
             <main className="min-h-screen">
               <Routes>
                 <Route path="/" element={<Index />} />
-                <Route path="/import" element={<Import />} />
                 <Route path="/library" element={<Library />} />
                 {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
                 <Route path="*" element={<NotFound />} />
