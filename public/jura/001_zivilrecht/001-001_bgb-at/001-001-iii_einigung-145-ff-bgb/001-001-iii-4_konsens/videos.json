@@ -1,0 +1,115 @@
+[
+    {
+        "id": 16,
+        "files": [
+            {
+                "video_id": 16,
+                "learn_unit_id": 28,
+                "file_id": 16,
+                "type": 0,
+                "file_name": "00000016_R3tRngZJ9cnFZFQuFXW-t_cSUXzCp8aOGMuiYRzvPNamA02Rsdo5Eid6MrT_6tqY.mp4"
+            },
+            {
+                "video_id": 16,
+                "learn_unit_id": 28,
+                "file_id": 3398,
+                "type": 4,
+                "file_name": "00003398_2YwguGzqssBXc1a9QCM43fd-MF-QQqbAlMpt04sRa176O13TewmFCdEoZ5DHLwY6.webm"
+            },
+            {
+                "video_id": 16,
+                "learn_unit_id": 28,
+                "file_id": 3399,
+                "type": 5,
+                "file_name": "00003399_K0MbGilsF9XUMe5Zk-ncpTUReyn3TSWtIEkVdUCsmmWqrmEHXLitzqFMREfy2elZ.mp4"
+            }
+        ],
+        "annotations": [
+            {
+                "id": 566,
+                "end_sec": 85,
+                "start_sec": 24,
+                "video_note": null,
+                "law_text": {
+                    "id": null,
+                    "code_id": null,
+                    "paragraph": null,
+                    "text": null,
+                    "law_code": {
+                        "id": null,
+                        "code_string": null,
+                        "name": null
+                    }
+                }
+            },
+            {
+                "id": 567,
+                "end_sec": 109,
+                "start_sec": 85,
+                "video_note": null,
+                "law_text": {
+                    "id": null,
+                    "code_id": null,
+                    "paragraph": null,
+                    "text": null,
+                    "law_code": {
+                        "id": null,
+                        "code_string": null,
+                        "name": null
+                    }
+                }
+            },
+            {
+                "id": 568,
+                "end_sec": 174,
+                "start_sec": 109,
+                "video_note": null,
+                "law_text": {
+                    "id": null,
+                    "code_id": null,
+                    "paragraph": null,
+                    "text": null,
+                    "law_code": {
+                        "id": null,
+                        "code_string": null,
+                        "name": null
+                    }
+                }
+            },
+            {
+                "id": 569,
+                "end_sec": 199,
+                "start_sec": 174,
+                "video_note": null,
+                "law_text": {
+                    "id": null,
+                    "code_id": null,
+                    "paragraph": null,
+                    "text": null,
+                    "law_code": {
+                        "id": null,
+                        "code_string": null,
+                        "name": null
+                    }
+                }
+            },
+            {
+                "id": 574,
+                "end_sec": 318,
+                "start_sec": 199,
+                "video_note": null,
+                "law_text": {
+                    "id": null,
+                    "code_id": null,
+                    "paragraph": null,
+                    "text": null,
+                    "law_code": {
+                        "id": null,
+                        "code_string": null,
+                        "name": null
+                    }
+                }
+            }
+        ]
+    }
+]

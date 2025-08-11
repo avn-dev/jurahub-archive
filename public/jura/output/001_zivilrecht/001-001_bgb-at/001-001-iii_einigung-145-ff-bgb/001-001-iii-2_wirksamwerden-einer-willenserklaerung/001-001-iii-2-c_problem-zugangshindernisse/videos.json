@@ -1,0 +1,98 @@
+[
+    {
+        "id": 12,
+        "files": [
+            {
+                "video_id": 12,
+                "learn_unit_id": 10,
+                "file_id": 12,
+                "type": 0,
+                "file_name": "00000012_L0s4sSAW8boautnwmxgHvIsYqZ2dL08BDD7jL8ngTFfEQjapUhUpjLCJFug8CaGD.mp4"
+            },
+            {
+                "video_id": 12,
+                "learn_unit_id": 10,
+                "file_id": 3390,
+                "type": 4,
+                "file_name": "00003390_fEnBx9YYliEstz_CZGrPKjFpEVQl3m2SaBaPXbkjUUCsqNMdswzAVz0TxWOooH4q.webm"
+            },
+            {
+                "video_id": 12,
+                "learn_unit_id": 10,
+                "file_id": 3391,
+                "type": 5,
+                "file_name": "00003391_URiuaDfKDmGSzwbazGKS5O5Hz2gVTkYZl4oq57yTb82rwy9bpXIc_1ZwUsIRW-zT.mp4"
+            }
+        ],
+        "annotations": [
+            {
+                "id": 555,
+                "end_sec": 70,
+                "start_sec": 31,
+                "video_note": null,
+                "law_text": {
+                    "id": null,
+                    "code_id": null,
+                    "paragraph": null,
+                    "text": null,
+                    "law_code": {
+                        "id": null,
+                        "code_string": null,
+                        "name": null
+                    }
+                }
+            },
+            {
+                "id": 557,
+                "end_sec": 151,
+                "start_sec": 70,
+                "video_note": null,
+                "law_text": {
+                    "id": null,
+                    "code_id": null,
+                    "paragraph": null,
+                    "text": null,
+                    "law_code": {
+                        "id": null,
+                        "code_string": null,
+                        "name": null
+                    }
+                }
+            },
+            {
+                "id": 5630,
+                "end_sec": null,
+                "start_sec": 64.76141,
+                "video_note": null,
+                "law_text": {
+                    "id": 12081,
+                    "code_id": 724,
+                    "paragraph": "§ 242",
+                    "text": "<p>Der Schuldner ist verpflichtet, die Leistung so zu bewirken, wie Treu und Glauben mit Rücksicht auf die Verkehrssitte es erfordern.</p>",
+                    "law_code": {
+                        "id": 724,
+                        "code_string": "bgb",
+                        "name": "BGB"
+                    }
+                }
+            },
+            {
+                "id": 5631,
+                "end_sec": null,
+                "start_sec": 90.0984,
+                "video_note": null,
+                "law_text": {
+                    "id": 12081,
+                    "code_id": 724,
+                    "paragraph": "§ 242",
+                    "text": "<p>Der Schuldner ist verpflichtet, die Leistung so zu bewirken, wie Treu und Glauben mit Rücksicht auf die Verkehrssitte es erfordern.</p>",
+                    "law_code": {
+                        "id": 724,
+                        "code_string": "bgb",
+                        "name": "BGB"
+                    }
+                }
+            }
+        ]
+    }
+]

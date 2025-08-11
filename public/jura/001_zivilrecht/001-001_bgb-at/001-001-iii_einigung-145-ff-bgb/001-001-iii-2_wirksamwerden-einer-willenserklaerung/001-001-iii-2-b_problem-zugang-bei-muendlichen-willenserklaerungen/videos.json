@@ -1,0 +1,81 @@
+[
+    {
+        "id": 13,
+        "files": [
+            {
+                "video_id": 13,
+                "learn_unit_id": 9,
+                "file_id": 13,
+                "type": 0,
+                "file_name": "00000013_c3WATRx2MOxxrjLjTEWWuuMewbQRx6w3FLf2qs1f5LcuDYRhPSgysnuhWo5WGk14.mp4"
+            },
+            {
+                "video_id": 13,
+                "learn_unit_id": 9,
+                "file_id": 3392,
+                "type": 4,
+                "file_name": "00003392_IvhKrwe-VbCP9TEcF73ecYUnmi2gVS1o6PHG_h40_-PE9Bauox1PQej0iXcIhOAQ.webm"
+            },
+            {
+                "video_id": 13,
+                "learn_unit_id": 9,
+                "file_id": 3393,
+                "type": 5,
+                "file_name": "00003393_Ny4W-ongMCh1gw0F2tTNq5PREVkvbqGxS4_Iue-2JlXpJJB1Jrj4-Ld3o9CgIUkF.mp4"
+            }
+        ],
+        "annotations": [
+            {
+                "id": 1558,
+                "end_sec": 136,
+                "start_sec": 24,
+                "video_note": null,
+                "law_text": {
+                    "id": null,
+                    "code_id": null,
+                    "paragraph": null,
+                    "text": null,
+                    "law_code": {
+                        "id": null,
+                        "code_string": null,
+                        "name": null
+                    }
+                }
+            },
+            {
+                "id": 1559,
+                "end_sec": 166,
+                "start_sec": 136,
+                "video_note": null,
+                "law_text": {
+                    "id": null,
+                    "code_id": null,
+                    "paragraph": null,
+                    "text": null,
+                    "law_code": {
+                        "id": null,
+                        "code_string": null,
+                        "name": null
+                    }
+                }
+            },
+            {
+                "id": 1560,
+                "end_sec": 210,
+                "start_sec": 166,
+                "video_note": null,
+                "law_text": {
+                    "id": null,
+                    "code_id": null,
+                    "paragraph": null,
+                    "text": null,
+                    "law_code": {
+                        "id": null,
+                        "code_string": null,
+                        "name": null
+                    }
+                }
+            }
+        ]
+    }
+]

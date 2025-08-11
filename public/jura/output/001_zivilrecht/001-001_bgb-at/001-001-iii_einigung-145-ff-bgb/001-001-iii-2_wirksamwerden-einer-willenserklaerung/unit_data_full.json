@@ -1,0 +1,359 @@
+{
+    "author_name": "Sören A. Croll",
+    "created": "2012-11-13T16:37:57.000Z",
+    "description": "<h2>Aufbau der Prüfung - Wirksamwerden einer Willenserkl&auml;rung</h2>\r\n<p>Das Angebot ist eine empfangsbed&uuml;rftige Willenserkl&auml;rung und eine solche empfangsbed&uuml;rftige Willenserkl&auml;rung erfordert ein Wirksamwerden. Mit dem Wirksamwerden einer Willenserkl&auml;rung befasst sich &sect; 130 BGB. Zu beachten ist hierbei, dass es auch nicht empfangsbed&uuml;rftige Willenserkl&auml;rungen gibt, beispielsweise das Testament oder die Auslobung. Beispiel: Entl&auml;uft eine Katze und wird hierf&uuml;r ein Finderlohn mittels aufgeh&auml;ngter Zettel versprochen, so erh&auml;lt der Finder der Katze unabh&auml;ngig davon, ob er den Zettel auch gesehen hat, den Finderlohn. F&uuml;r ein Wirksamwerden einer Willenserkl&auml;rung m&uuml;ssen die Voraussetzungen des &sect; 130 BGB vorliegen.</p>\r\n\r\n<h3>I. Abgabe</h3>\r\n<p>Das Wirksamwerden einer Willenserkl&auml;rung setzt danach zun&auml;chst eine Abgabe voraus. <strong>Abgabe</strong>&nbsp;ist die willentliche Ent&auml;u&szlig;erung in den Rechtsverkehr, sodass unter normalen Umst&auml;nden mit Zugang zu rechnen ist. Hier kann sich das Problem einer abhandengekommenen Willenserkl&auml;rung stellen.</p>\r\n\r\n<h3>II. Zugang</h3>\r\n<p>Weiterhin verlangt &sect; 130 BGB f&uuml;r das Wirksamwerden einer Willenserkl&auml;rung einen <strong>Zugang</strong>. Dieser liegt immer dann vor, wenn die Erkl&auml;rung derart in den Machtbereich des Empf&auml;ngers gelangt, dass unter normalen Umst&auml;nden mit Kenntnisnahme zu rechnen ist. Eine tats&auml;chliche Kenntnisnahme ist nicht erforderlich. Regelm&auml;&szlig;ig geschieht der Zugang in dem Zeitpunkt, in welchem das Schriftst&uuml;ck in den Briefkasten geworfen wird, nicht erst dann, wenn es dort heraus genommen, gelesen oder verstanden wird. Hier kann sich das Problem der m&uuml;ndlichen Willenserkl&auml;rung stellen. Beispiel: A sendet dem B eine K&uuml;ndigung zu, B montiert jedoch den Briefkasten ab, weil er negative Post nicht vertr&auml;gt. Fraglich ist somit, ob und unter welchen Voraussetzungen in solchen F&auml;llen Zugang vorliegt.</p>\r\n\r\n<h3>III. Kein Widerruf</h3>\r\n<p>Zuletzt ist f&uuml;r das Wirksamwerden einer Willenserkl&auml;rung nach &sect; 130 I 2 BGB erforderlich, dass kein Widerruf erfolgt ist. Man hat somit die M&ouml;glichkeit, die Willenserkl&auml;rung zu widerrufen und damit ein Wirksamwerden zu verhindern. Allerdings muss der Widerruf sp&auml;testens mit Zugang der Willenserkl&auml;rung zugehen.</p>\r\n",
+    "id": 12,
+    "title": "Wirksamwerden einer Willenserklärung",
+    "seo_keywords": "§ 130 BGB, Willenserklärung, Wirksamwerden, Abgabe, Zugang, Widerruf, BGB AT",
+    "solution_file": null,
+    "facts_file": null,
+    "slug": "wirksamwerden-einer-willenserklaerung",
+    "type": "LESSON",
+    "canonical": "/lernen/wirksamwerden-einer-willenserklaerung/12/excursus/",
+    "hierarchy_element": {
+        "id": 18,
+        "code": "001-001-III-2",
+        "sort_code": "001-001-003-002",
+        "list_item": "2",
+        "depth": 4,
+        "learn_unit_id": 12,
+        "title": null
+    },
+    "image": [
+        {
+            "learn_unit_id": 12,
+            "image_id": 137,
+            "file_id": 1215,
+            "type": 1,
+            "file_name": "00001215_dSTf33N2PdZkvW4wqd2vhaMnFdhBUFDMFVMlsMnfzKLM4VYJp36HrdqFIr9GbXX_.png"
+        },
+        {
+            "learn_unit_id": 12,
+            "image_id": 137,
+            "file_id": 4872,
+            "type": 2,
+            "file_name": "00004872_s22E_QqgFTELAIN4CYoxPBH-P1aWHqee_pxJKXPyVIyDEwtBsH_0nN-dpJBkNcyx.jpg"
+        },
+        {
+            "learn_unit_id": 12,
+            "image_id": 137,
+            "file_id": 6117,
+            "type": 3,
+            "file_name": "00006117_vzke7yc-rakt5LVFGApsztu5_Tq8lTzqhVkwSy5zDXXJd-UPIIgmCyGyZcH4aDTV.jpg"
+        }
+    ],
+    "videos": [
+        {
+            "id": 10,
+            "files": [
+                {
+                    "video_id": 10,
+                    "learn_unit_id": 12,
+                    "file_id": 10,
+                    "type": 0,
+                    "file_name": "00000010_IW-2zuQ5hNclPPUUyowSBL6KhzU7CJY9NQwSJSiyfzdUSCI2yW8FbqbCxM2TLqBg.mp4"
+                },
+                {
+                    "video_id": 10,
+                    "learn_unit_id": 12,
+                    "file_id": 3386,
+                    "type": 4,
+                    "file_name": "00003386_kcfjuF7zxyDVafPRq6WBLtjpqxTs6XtU2amEwic1a2zP5bdEDylGJ4kf8deGFPsN.webm"
+                },
+                {
+                    "video_id": 10,
+                    "learn_unit_id": 12,
+                    "file_id": 3387,
+                    "type": 5,
+                    "file_name": "00003387_zUyuB0UXyYC7t-pPTfNe3VGxVXT1dDqpT7zfESC7EhN1t5hWyYSyHpWem2C3WQkX.mp4"
+                }
+            ],
+            "annotations": [
+                {
+                    "id": 570,
+                    "end_sec": 53,
+                    "start_sec": 40,
+                    "video_note": null,
+                    "law_text": {
+                        "id": null,
+                        "code_id": null,
+                        "paragraph": null,
+                        "text": null,
+                        "law_code": {
+                            "id": null,
+                            "code_string": null,
+                            "name": null
+                        }
+                    }
+                },
+                {
+                    "id": 571,
+                    "end_sec": 72,
+                    "start_sec": 53,
+                    "video_note": null,
+                    "law_text": {
+                        "id": null,
+                        "code_id": null,
+                        "paragraph": null,
+                        "text": null,
+                        "law_code": {
+                            "id": null,
+                            "code_string": null,
+                            "name": null
+                        }
+                    }
+                },
+                {
+                    "id": 573,
+                    "end_sec": 84,
+                    "start_sec": 72,
+                    "video_note": null,
+                    "law_text": {
+                        "id": null,
+                        "code_id": null,
+                        "paragraph": null,
+                        "text": null,
+                        "law_code": {
+                            "id": null,
+                            "code_string": null,
+                            "name": null
+                        }
+                    }
+                },
+                {
+                    "id": 577,
+                    "end_sec": 124,
+                    "start_sec": 84,
+                    "video_note": null,
+                    "law_text": {
+                        "id": null,
+                        "code_id": null,
+                        "paragraph": null,
+                        "text": null,
+                        "law_code": {
+                            "id": null,
+                            "code_string": null,
+                            "name": null
+                        }
+                    }
+                },
+                {
+                    "id": 579,
+                    "end_sec": 161,
+                    "start_sec": 124,
+                    "video_note": null,
+                    "law_text": {
+                        "id": null,
+                        "code_id": null,
+                        "paragraph": null,
+                        "text": null,
+                        "law_code": {
+                            "id": null,
+                            "code_string": null,
+                            "name": null
+                        }
+                    }
+                },
+                {
+                    "id": 581,
+                    "end_sec": 193,
+                    "start_sec": 161,
+                    "video_note": null,
+                    "law_text": {
+                        "id": null,
+                        "code_id": null,
+                        "paragraph": null,
+                        "text": null,
+                        "law_code": {
+                            "id": null,
+                            "code_string": null,
+                            "name": null
+                        }
+                    }
+                },
+                {
+                    "id": 5624,
+                    "end_sec": null,
+                    "start_sec": 19.87875,
+                    "video_note": null,
+                    "law_text": {
+                        "id": 11974,
+                        "code_id": 724,
+                        "paragraph": "§ 130",
+                        "text": "<p>(1) Eine Willenserklärung, die einem anderen gegenüber abzugeben ist, wird, wenn sie in dessen Abwesenheit abgegeben wird, in dem Zeitpunkt wirksam, in welchem sie ihm zugeht. Sie wird nicht wirksam, wenn dem anderen vorher oder gleichzeitig ein Widerruf zugeht.</p><p>(2) Auf die Wirksamkeit der Willenserklärung ist es ohne Einfluss, wenn der Erklärende nach der Abgabe stirbt oder geschäftsunfähig wird.</p><p>(3) Diese Vorschriften finden auch dann Anwendung, wenn die Willenserklärung einer Behörde gegenüber abzugeben ist.</p>",
+                        "law_code": {
+                            "id": 724,
+                            "code_string": "bgb",
+                            "name": "BGB"
+                        }
+                    }
+                },
+                {
+                    "id": 5625,
+                    "end_sec": null,
+                    "start_sec": 47.5362,
+                    "video_note": null,
+                    "law_text": {
+                        "id": 11974,
+                        "code_id": 724,
+                        "paragraph": "§ 130",
+                        "text": "<p>(1) Eine Willenserklärung, die einem anderen gegenüber abzugeben ist, wird, wenn sie in dessen Abwesenheit abgegeben wird, in dem Zeitpunkt wirksam, in welchem sie ihm zugeht. Sie wird nicht wirksam, wenn dem anderen vorher oder gleichzeitig ein Widerruf zugeht.</p><p>(2) Auf die Wirksamkeit der Willenserklärung ist es ohne Einfluss, wenn der Erklärende nach der Abgabe stirbt oder geschäftsunfähig wird.</p><p>(3) Diese Vorschriften finden auch dann Anwendung, wenn die Willenserklärung einer Behörde gegenüber abzugeben ist.</p>",
+                        "law_code": {
+                            "id": 724,
+                            "code_string": "bgb",
+                            "name": "BGB"
+                        }
+                    }
+                },
+                {
+                    "id": 5626,
+                    "end_sec": null,
+                    "start_sec": 176.99207,
+                    "video_note": null,
+                    "law_text": {
+                        "id": 11974,
+                        "code_id": 724,
+                        "paragraph": "§ 130",
+                        "text": "<p>(1) Eine Willenserklärung, die einem anderen gegenüber abzugeben ist, wird, wenn sie in dessen Abwesenheit abgegeben wird, in dem Zeitpunkt wirksam, in welchem sie ihm zugeht. Sie wird nicht wirksam, wenn dem anderen vorher oder gleichzeitig ein Widerruf zugeht.</p><p>(2) Auf die Wirksamkeit der Willenserklärung ist es ohne Einfluss, wenn der Erklärende nach der Abgabe stirbt oder geschäftsunfähig wird.</p><p>(3) Diese Vorschriften finden auch dann Anwendung, wenn die Willenserklärung einer Behörde gegenüber abzugeben ist.</p>",
+                        "law_code": {
+                            "id": 724,
+                            "code_string": "bgb",
+                            "name": "BGB"
+                        }
+                    }
+                }
+            ]
+        }
+    ],
+    "keywords": [
+        {
+            "id": 20,
+            "content": "Willenserklärung",
+            "created": "2013-01-25T16:53:07.000Z",
+            "description": "Willenserklärung ist die Äußerung eines Willens, der auf Setzung einer privatrechtlichen Rechtsfolge gerichtet ist.",
+            "slug": "willenserklarung",
+            "title": null,
+            "source": null,
+            "learn_unit_id": 12
+        },
+        {
+            "id": 29,
+            "content": "§ 130 BGB",
+            "created": "2013-01-25T16:53:08.000Z",
+            "description": null,
+            "slug": "130-bgb",
+            "title": null,
+            "source": null,
+            "learn_unit_id": 12
+        },
+        {
+            "id": 1916,
+            "content": "Abgabe einer Willenserklärung",
+            "created": "2013-01-28T19:25:15.000Z",
+            "description": "Abgabe ist die willentliche Entäußerung der Willenserklärung in den Rechtsverkehr, so dass unter normalen Umständen mit Zugang zu rechnen ist.",
+            "slug": "abgabe-einer-willenserklarung",
+            "title": null,
+            "source": null,
+            "learn_unit_id": 12
+        },
+        {
+            "id": 45,
+            "content": "Wirksamwerden einer Willenserklärung",
+            "created": "2013-01-25T16:53:09.000Z",
+            "description": null,
+            "slug": "wirksamwerden-einer-willenserklarung",
+            "title": null,
+            "source": null,
+            "learn_unit_id": 12
+        },
+        {
+            "id": 34,
+            "content": "Abhandengekommene Willenserklärung",
+            "created": "2013-01-25T16:53:08.000Z",
+            "description": "Eine abhandengekommene Willenserklärung ist eine Willenserklärung, die ohne den Willen des Erklärenden in den Rechtsverkehr gelangt ist.",
+            "slug": "abhandengekommene-willenserklarung",
+            "title": null,
+            "source": null,
+            "learn_unit_id": 12
+        },
+        {
+            "id": 2249,
+            "content": "§ 130 I 2 BGB",
+            "created": "2013-02-09T11:32:20.000Z",
+            "description": null,
+            "slug": "130-i-2-bgb",
+            "title": null,
+            "source": null,
+            "learn_unit_id": 12
+        },
+        {
+            "id": 36,
+            "content": "Mündliche Willenserklärung",
+            "created": "2013-01-25T16:53:08.000Z",
+            "description": null,
+            "slug": "mundliche-willenserklarung",
+            "title": null,
+            "source": null,
+            "learn_unit_id": 12
+        },
+        {
+            "id": 41,
+            "content": "Zugangshindernisse",
+            "created": "2013-01-25T16:53:08.000Z",
+            "description": null,
+            "slug": "zugangshindernisse",
+            "title": null,
+            "source": null,
+            "learn_unit_id": 12
+        },
+        {
+            "id": 2250,
+            "content": "Zugang einer Willenserklärung",
+            "created": "2013-02-09T11:34:21.000Z",
+            "description": "Zugang liegt vor, wenn die Willenserklärung derart in den Machtbereich des Empfängers gelangt, dass unter normalen Umständen mit Kenntnisnahme des Empfängers zu rechnen ist.",
+            "slug": "zugang-einer-willenserklarung",
+            "title": null,
+            "source": null,
+            "learn_unit_id": 12
+        },
+        {
+            "id": 2252,
+            "content": "Widerruf einer Willenserklärung",
+            "created": "2013-02-09T11:38:21.000Z",
+            "description": null,
+            "slug": "widerruf-einer-willenserklarung",
+            "title": null,
+            "source": null,
+            "learn_unit_id": 12
+        }
+    ],
+    "parents": [
+        {
+            "parent_id": 2,
+            "depth": 3,
+            "title": "Einigung, §§ 145 ff. BGB"
+        },
+        {
+            "parent_id": 5,
+            "depth": 2,
+            "title": "BGB AT"
+        },
+        {
+            "parent_id": 6,
+            "depth": 1,
+            "title": "Zivilrecht"
+        },
+        {
+            "parent_id": 18,
+            "depth": 4,
+            "title": "Wirksamwerden einer Willenserklärung"
+        }
+    ],
+    "related_learn_units": [
+        {
+            "id": 2291,
+            "slug": "fall-festplatte",
+            "title": "Fall: Festplatte"
+        }
+    ]
+}

@@ -14,7 +14,7 @@ const Library = () => {
 
   return (
     <div className="container mx-auto px-4 py-10">
-      <SEO title="Bibliothek – Jura Navigator" description="Durchstöbere deine JuraOnline-Inhalte aus data.json mit strukturierter Navigation." canonicalPath="/library" />
+      <SEO title="Bibliothek – Ester's Lernplattform" description="Durchstöbere deine JuraOnline-Inhalte aus data.json mit strukturierter Navigation." canonicalPath="/library" />
       <h1 className="mb-6 text-3xl font-semibold">Bibliothek</h1>
 
       {error && <div className="mb-4 rounded border border-destructive/50 bg-destructive/10 p-3 text-sm">{error}</div>}

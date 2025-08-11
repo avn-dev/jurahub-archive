@@ -1,0 +1,506 @@
+[
+    {
+        "id": 4,
+        "files": [
+            {
+                "video_id": 4,
+                "learn_unit_id": 274,
+                "file_id": 4,
+                "type": 0,
+                "file_name": "00000004_QxW3iM1OmmOuLBAKGZ-ZOa_Y23aT-J1IrIlL-1EpDBvELFO0pMBBjTi3O-U-A7WM.mp4"
+            },
+            {
+                "video_id": 4,
+                "learn_unit_id": 274,
+                "file_id": 3378,
+                "type": 4,
+                "file_name": "00003378_pxgOQNkA2Cidc-A7_i9boT8ss_8gzxXI7tFDuncjY3QtIQCTYiy_AmH09IOvRxLC.webm"
+            },
+            {
+                "video_id": 4,
+                "learn_unit_id": 274,
+                "file_id": 3379,
+                "type": 5,
+                "file_name": "00003379_aCy5vQ9H165eYz0sUNiD9t0CNY2UtglH3yF-zlBDlbvR_B692gX7EdHEc2c5yWqS.mp4"
+            }
+        ],
+        "annotations": [
+            {
+                "id": 1521,
+                "end_sec": 22,
+                "start_sec": 8,
+                "video_note": null,
+                "law_text": {
+                    "id": null,
+                    "code_id": null,
+                    "paragraph": null,
+                    "text": null,
+                    "law_code": {
+                        "id": null,
+                        "code_string": null,
+                        "name": null
+                    }
+                }
+            },
+            {
+                "id": 1522,
+                "end_sec": 53,
+                "start_sec": 22,
+                "video_note": null,
+                "law_text": {
+                    "id": null,
+                    "code_id": null,
+                    "paragraph": null,
+                    "text": null,
+                    "law_code": {
+                        "id": null,
+                        "code_string": null,
+                        "name": null
+                    }
+                }
+            },
+            {
+                "id": 1523,
+                "end_sec": 73,
+                "start_sec": 53,
+                "video_note": null,
+                "law_text": {
+                    "id": null,
+                    "code_id": null,
+                    "paragraph": null,
+                    "text": null,
+                    "law_code": {
+                        "id": null,
+                        "code_string": null,
+                        "name": null
+                    }
+                }
+            },
+            {
+                "id": 1524,
+                "end_sec": 126,
+                "start_sec": 73,
+                "video_note": null,
+                "law_text": {
+                    "id": null,
+                    "code_id": null,
+                    "paragraph": null,
+                    "text": null,
+                    "law_code": {
+                        "id": null,
+                        "code_string": null,
+                        "name": null
+                    }
+                }
+            },
+            {
+                "id": 1525,
+                "end_sec": 174,
+                "start_sec": 126,
+                "video_note": null,
+                "law_text": {
+                    "id": null,
+                    "code_id": null,
+                    "paragraph": null,
+                    "text": null,
+                    "law_code": {
+                        "id": null,
+                        "code_string": null,
+                        "name": null
+                    }
+                }
+            },
+            {
+                "id": 1526,
+                "end_sec": 354,
+                "start_sec": 174,
+                "video_note": null,
+                "law_text": {
+                    "id": null,
+                    "code_id": null,
+                    "paragraph": null,
+                    "text": null,
+                    "law_code": {
+                        "id": null,
+                        "code_string": null,
+                        "name": null
+                    }
+                }
+            },
+            {
+                "id": 1527,
+                "end_sec": 379,
+                "start_sec": 354,
+                "video_note": null,
+                "law_text": {
+                    "id": null,
+                    "code_id": null,
+                    "paragraph": null,
+                    "text": null,
+                    "law_code": {
+                        "id": null,
+                        "code_string": null,
+                        "name": null
+                    }
+                }
+            },
+            {
+                "id": 1528,
+                "end_sec": 426,
+                "start_sec": 379,
+                "video_note": null,
+                "law_text": {
+                    "id": null,
+                    "code_id": null,
+                    "paragraph": null,
+                    "text": null,
+                    "law_code": {
+                        "id": null,
+                        "code_string": null,
+                        "name": null
+                    }
+                }
+            },
+            {
+                "id": 1529,
+                "end_sec": 564,
+                "start_sec": 426,
+                "video_note": null,
+                "law_text": {
+                    "id": null,
+                    "code_id": null,
+                    "paragraph": null,
+                    "text": null,
+                    "law_code": {
+                        "id": null,
+                        "code_string": null,
+                        "name": null
+                    }
+                }
+            },
+            {
+                "id": 5541,
+                "end_sec": null,
+                "start_sec": 124.79622,
+                "video_note": null,
+                "law_text": {
+                    "id": 11946,
+                    "code_id": 724,
+                    "paragraph": "§ 105",
+                    "text": "<p>(1) Die Willenserklärung eines Geschäftsunfähigen ist nichtig.</p><p>(2) Nichtig ist auch eine Willenserklärung, die im Zustand der Bewusstlosigkeit oder vorübergehender Störung der Geistestätigkeit abgegeben wird.</p>",
+                    "law_code": {
+                        "id": 724,
+                        "code_string": "bgb",
+                        "name": "BGB"
+                    }
+                }
+            },
+            {
+                "id": 5546,
+                "end_sec": null,
+                "start_sec": 274.97961,
+                "video_note": null,
+                "law_text": {
+                    "id": 12114,
+                    "code_id": 724,
+                    "paragraph": "§ 275",
+                    "text": "<p></p><p>(1) Der Anspruch auf Leistung ist ausgeschlossen, soweit diese für den Schuldner oder für jedermann unmöglich ist.</p><p>(2) Der Schuldner kann die Leistung verweigern, soweit diese einen Aufwand erfordert, der unter Beachtung des Inhalts des Schuldverhältnisses und der Gebote von Treu und Glauben in einem groben Missverhältnis zu dem Leistungsinteresse des Gläubigers steht. Bei der Bestimmung der dem Schuldner zuzumutenden Anstrengungen ist auch zu berücksichtigen, ob der Schuldner das Leistungshindernis zu vertreten hat.</p><p>(3) Der Schuldner kann die Leistung ferner verweigern, wenn er die Leistung persönlich zu erbringen hat und sie ihm unter Abwägung des seiner Leistung entgegenstehenden Hindernisses mit dem Leistungsinteresse des Gläubigers nicht zugemutet werden kann.</p><p>(4) Die Rechte des Gläubigers bestimmen sich nach den §§ 280, 283 bis 285, 311a und 326.</p>",
+                    "law_code": {
+                        "id": 724,
+                        "code_string": "bgb",
+                        "name": "BGB"
+                    }
+                }
+            },
+            {
+                "id": 5547,
+                "end_sec": null,
+                "start_sec": 297.09467,
+                "video_note": null,
+                "law_text": {
+                    "id": 11986,
+                    "code_id": 724,
+                    "paragraph": "§ 142",
+                    "text": "<p>(1) Wird ein anfechtbares Rechtsgeschäft angefochten, so ist es als von Anfang an nichtig anzusehen.</p><p>(2) Wer die Anfechtbarkeit kannte oder kennen musste, wird, wenn die Anfechtung erfolgt, so behandelt, wie wenn er die Nichtigkeit des Rechtsgeschäfts gekannt hätte oder hätte kennen müssen.</p>",
+                    "law_code": {
+                        "id": 724,
+                        "code_string": "bgb",
+                        "name": "BGB"
+                    }
+                }
+            },
+            {
+                "id": 5548,
+                "end_sec": null,
+                "start_sec": 298.46051,
+                "video_note": null,
+                "law_text": {
+                    "id": 11960,
+                    "code_id": 724,
+                    "paragraph": "§ 119",
+                    "text": "<p>(1) Wer bei der Abgabe einer Willenserklärung über deren Inhalt im Irrtum war oder eine Erklärung dieses Inhalts überhaupt nicht abgeben wollte, kann die Erklärung anfechten, wenn anzunehmen ist, dass er sie bei Kenntnis der Sachlage und bei verständiger Würdigung des Falles nicht abgegeben haben würde.</p><p>(2) Als Irrtum über den Inhalt der Erklärung gilt auch der Irrtum über solche Eigenschaften der Person oder der Sache, die im Verkehr als wesentlich angesehen werden.</p>",
+                    "law_code": {
+                        "id": 724,
+                        "code_string": "bgb",
+                        "name": "BGB"
+                    }
+                }
+            },
+            {
+                "id": 5549,
+                "end_sec": null,
+                "start_sec": 340.41476,
+                "video_note": null,
+                "law_text": {
+                    "id": 11986,
+                    "code_id": 724,
+                    "paragraph": "§ 142",
+                    "text": "<p>(1) Wird ein anfechtbares Rechtsgeschäft angefochten, so ist es als von Anfang an nichtig anzusehen.</p><p>(2) Wer die Anfechtbarkeit kannte oder kennen musste, wird, wenn die Anfechtung erfolgt, so behandelt, wie wenn er die Nichtigkeit des Rechtsgeschäfts gekannt hätte oder hätte kennen müssen.</p>",
+                    "law_code": {
+                        "id": 724,
+                        "code_string": "bgb",
+                        "name": "BGB"
+                    }
+                }
+            },
+            {
+                "id": 5552,
+                "end_sec": null,
+                "start_sec": 489.11856,
+                "video_note": null,
+                "law_text": {
+                    "id": 12175,
+                    "code_id": 724,
+                    "paragraph": "§ 320",
+                    "text": "<p>(1) Wer aus einem gegenseitigen Vertrag verpflichtet ist, kann die ihm obliegende Leistung bis zur Bewirkung der Gegenleistung verweigern, es sei denn, dass er vorzuleisten verpflichtet ist. Hat die Leistung an mehrere zu erfolgen, so kann dem einzelnen der ihm gebührende Teil bis zur Bewirkung der ganzen Gegenleistung verweigert werden. Die Vorschrift des § 273 Abs. 3 findet keine Anwendung.</p><p>(2) Ist von der einen Seite teilweise geleistet worden, so kann die Gegenleistung insoweit nicht verweigert werden, als die Verweigerung nach den Umständen, insbesondere wegen verhältnismäßiger Geringfügigkeit des rückständigen Teils, gegen Treu und Glauben verstoßen würde.</p>",
+                    "law_code": {
+                        "id": 724,
+                        "code_string": "bgb",
+                        "name": "BGB"
+                    }
+                }
+            },
+            {
+                "id": 5554,
+                "end_sec": null,
+                "start_sec": 528.83215,
+                "video_note": null,
+                "law_text": {
+                    "id": 12112,
+                    "code_id": 724,
+                    "paragraph": "§ 273",
+                    "text": "<p>(1) Hat der Schuldner aus demselben rechtlichen Verhältnis, auf dem seine Verpflichtung beruht, einen fälligen Anspruch gegen den Gläubiger, so kann er, sofern nicht aus dem Schuldverhältnis sich ein anderes ergibt, die geschuldete Leistung verweigern, bis die ihm gebührende Leistung bewirkt wird (Zurückbehaltungsrecht).</p><p>(2) Wer zur Herausgabe eines Gegenstands verpflichtet ist, hat das gleiche Recht, wenn ihm ein fälliger Anspruch wegen Verwendungen auf den Gegenstand oder wegen eines ihm durch diesen verursachten Schadens zusteht, es sei denn, dass er den Gegenstand durch eine vorsätzlich begangene unerlaubte Handlung erlangt hat.</p><p>(3) Der Gläubiger kann die Ausübung des Zurückbehaltungsrechts durch Sicherheitsleistung abwenden. Die Sicherheitsleistung durch Bürgen ist ausgeschlossen.</p>",
+                    "law_code": {
+                        "id": 724,
+                        "code_string": "bgb",
+                        "name": "BGB"
+                    }
+                }
+            },
+            {
+                "id": 5556,
+                "end_sec": null,
+                "start_sec": 561.57739,
+                "video_note": null,
+                "law_text": {
+                    "id": 12175,
+                    "code_id": 724,
+                    "paragraph": "§ 320",
+                    "text": "<p>(1) Wer aus einem gegenseitigen Vertrag verpflichtet ist, kann die ihm obliegende Leistung bis zur Bewirkung der Gegenleistung verweigern, es sei denn, dass er vorzuleisten verpflichtet ist. Hat die Leistung an mehrere zu erfolgen, so kann dem einzelnen der ihm gebührende Teil bis zur Bewirkung der ganzen Gegenleistung verweigert werden. Die Vorschrift des § 273 Abs. 3 findet keine Anwendung.</p><p>(2) Ist von der einen Seite teilweise geleistet worden, so kann die Gegenleistung insoweit nicht verweigert werden, als die Verweigerung nach den Umständen, insbesondere wegen verhältnismäßiger Geringfügigkeit des rückständigen Teils, gegen Treu und Glauben verstoßen würde.</p>",
+                    "law_code": {
+                        "id": 724,
+                        "code_string": "bgb",
+                        "name": "BGB"
+                    }
+                }
+            },
+            {
+                "id": 5557,
+                "end_sec": null,
+                "start_sec": 66.59476,
+                "video_note": null,
+                "law_text": {
+                    "id": 11989,
+                    "code_id": 724,
+                    "paragraph": "§ 145",
+                    "text": "<p>Wer einem anderen die Schließung eines Vertrags anträgt, ist an den Antrag gebunden, es sei denn, dass er die Gebundenheit ausgeschlossen hat.</p>",
+                    "law_code": {
+                        "id": 724,
+                        "code_string": "bgb",
+                        "name": "BGB"
+                    }
+                }
+            },
+            {
+                "id": 5558,
+                "end_sec": null,
+                "start_sec": 107.33049,
+                "video_note": null,
+                "law_text": {
+                    "id": 11945,
+                    "code_id": 724,
+                    "paragraph": "§ 104",
+                    "text": "<p>Geschäftsunfähig ist: <dl><dt>1.</dt><dd>wer nicht das siebente Lebensjahr vollendet hat,</dd> <dt>2.</dt><dd>wer sich in einem die freie Willensbestimmung ausschließenden Zustand krankhafter Störung der Geistestätigkeit befindet, sofern nicht der Zustand seiner Natur nach ein vorübergehender ist.</dd> </dl></p>",
+                    "law_code": {
+                        "id": 724,
+                        "code_string": "bgb",
+                        "name": "BGB"
+                    }
+                }
+            },
+            {
+                "id": 5560,
+                "end_sec": null,
+                "start_sec": 108.7767,
+                "video_note": null,
+                "law_text": {
+                    "id": 11946,
+                    "code_id": 724,
+                    "paragraph": "§ 105",
+                    "text": "<p>(1) Die Willenserklärung eines Geschäftsunfähigen ist nichtig.</p><p>(2) Nichtig ist auch eine Willenserklärung, die im Zustand der Bewusstlosigkeit oder vorübergehender Störung der Geistestätigkeit abgegeben wird.</p>",
+                    "law_code": {
+                        "id": 724,
+                        "code_string": "bgb",
+                        "name": "BGB"
+                    }
+                }
+            },
+            {
+                "id": 5561,
+                "end_sec": null,
+                "start_sec": 123.87643,
+                "video_note": null,
+                "law_text": {
+                    "id": 11945,
+                    "code_id": 724,
+                    "paragraph": "§ 104",
+                    "text": "<p>Geschäftsunfähig ist: <dl><dt>1.</dt><dd>wer nicht das siebente Lebensjahr vollendet hat,</dd> <dt>2.</dt><dd>wer sich in einem die freie Willensbestimmung ausschließenden Zustand krankhafter Störung der Geistestätigkeit befindet, sofern nicht der Zustand seiner Natur nach ein vorübergehender ist.</dd> </dl></p>",
+                    "law_code": {
+                        "id": 724,
+                        "code_string": "bgb",
+                        "name": "BGB"
+                    }
+                }
+            },
+            {
+                "id": 5562,
+                "end_sec": null,
+                "start_sec": 154.58597,
+                "video_note": null,
+                "law_text": {
+                    "id": 12814,
+                    "code_id": 724,
+                    "paragraph": "§ 823",
+                    "text": "<p>(1) Wer vorsätzlich oder fahrlässig das Leben, den Körper, die Gesundheit, die Freiheit, das Eigentum oder ein sonstiges Recht eines anderen widerrechtlich verletzt, ist dem anderen zum Ersatz des daraus entstehenden Schadens verpflichtet.</p><p>(2) Die gleiche Verpflichtung trifft denjenigen, welcher gegen ein den Schutz eines anderen bezweckendes Gesetz verstößt. Ist nach dem Inhalt des Gesetzes ein Verstoß gegen dieses auch ohne Verschulden möglich, so tritt die Ersatzpflicht nur im Falle des Verschuldens ein.</p>",
+                    "law_code": {
+                        "id": 724,
+                        "code_string": "bgb",
+                        "name": "BGB"
+                    }
+                }
+            },
+            {
+                "id": 5563,
+                "end_sec": null,
+                "start_sec": 172.75475,
+                "video_note": null,
+                "law_text": {
+                    "id": 12814,
+                    "code_id": 724,
+                    "paragraph": "§ 823",
+                    "text": "<p>(1) Wer vorsätzlich oder fahrlässig das Leben, den Körper, die Gesundheit, die Freiheit, das Eigentum oder ein sonstiges Recht eines anderen widerrechtlich verletzt, ist dem anderen zum Ersatz des daraus entstehenden Schadens verpflichtet.</p><p>(2) Die gleiche Verpflichtung trifft denjenigen, welcher gegen ein den Schutz eines anderen bezweckendes Gesetz verstößt. Ist nach dem Inhalt des Gesetzes ein Verstoß gegen dieses auch ohne Verschulden möglich, so tritt die Ersatzpflicht nur im Falle des Verschuldens ein.</p>",
+                    "law_code": {
+                        "id": 724,
+                        "code_string": "bgb",
+                        "name": "BGB"
+                    }
+                }
+            },
+            {
+                "id": 5564,
+                "end_sec": null,
+                "start_sec": 227.78981,
+                "video_note": null,
+                "law_text": {
+                    "id": 12218,
+                    "code_id": 724,
+                    "paragraph": "§ 362",
+                    "text": "<p>(1) Das Schuldverhältnis erlischt, wenn die geschuldete Leistung an den Gläubiger bewirkt wird.</p><p>(2) Wird an einen Dritten zum Zwecke der Erfüllung geleistet, so finden die Vorschriften des § 185 Anwendung.</p>",
+                    "law_code": {
+                        "id": 724,
+                        "code_string": "bgb",
+                        "name": "BGB"
+                    }
+                }
+            },
+            {
+                "id": 5565,
+                "end_sec": null,
+                "start_sec": 450.06262,
+                "video_note": null,
+                "law_text": {
+                    "id": 12038,
+                    "code_id": 724,
+                    "paragraph": "§ 194",
+                    "text": "<p>(1) Das Recht, von einem anderen ein Tun oder Unterlassen zu verlangen (Anspruch), unterliegt der Verjährung.</p><p>(2) Ansprüche aus einem familienrechtlichen Verhältnis unterliegen der Verjährung nicht, soweit sie auf die Herstellung des dem Verhältnis entsprechenden Zustands für die Zukunft oder auf die Einwilligung in eine genetische Untersuchung zur Klärung der leiblichen Abstammung gerichtet sind.</p>",
+                    "law_code": {
+                        "id": 724,
+                        "code_string": "bgb",
+                        "name": "BGB"
+                    }
+                }
+            },
+            {
+                "id": 5566,
+                "end_sec": null,
+                "start_sec": 482.96036,
+                "video_note": null,
+                "law_text": {
+                    "id": 12112,
+                    "code_id": 724,
+                    "paragraph": "§ 273",
+                    "text": "<p>(1) Hat der Schuldner aus demselben rechtlichen Verhältnis, auf dem seine Verpflichtung beruht, einen fälligen Anspruch gegen den Gläubiger, so kann er, sofern nicht aus dem Schuldverhältnis sich ein anderes ergibt, die geschuldete Leistung verweigern, bis die ihm gebührende Leistung bewirkt wird (Zurückbehaltungsrecht).</p><p>(2) Wer zur Herausgabe eines Gegenstands verpflichtet ist, hat das gleiche Recht, wenn ihm ein fälliger Anspruch wegen Verwendungen auf den Gegenstand oder wegen eines ihm durch diesen verursachten Schadens zusteht, es sei denn, dass er den Gegenstand durch eine vorsätzlich begangene unerlaubte Handlung erlangt hat.</p><p>(3) Der Gläubiger kann die Ausübung des Zurückbehaltungsrechts durch Sicherheitsleistung abwenden. Die Sicherheitsleistung durch Bürgen ist ausgeschlossen.</p>",
+                    "law_code": {
+                        "id": 724,
+                        "code_string": "bgb",
+                        "name": "BGB"
+                    }
+                }
+            },
+            {
+                "id": 5567,
+                "end_sec": null,
+                "start_sec": 514.76172,
+                "video_note": null,
+                "law_text": {
+                    "id": 12175,
+                    "code_id": 724,
+                    "paragraph": "§ 320",
+                    "text": "<p>(1) Wer aus einem gegenseitigen Vertrag verpflichtet ist, kann die ihm obliegende Leistung bis zur Bewirkung der Gegenleistung verweigern, es sei denn, dass er vorzuleisten verpflichtet ist. Hat die Leistung an mehrere zu erfolgen, so kann dem einzelnen der ihm gebührende Teil bis zur Bewirkung der ganzen Gegenleistung verweigert werden. Die Vorschrift des § 273 Abs. 3 findet keine Anwendung.</p><p>(2) Ist von der einen Seite teilweise geleistet worden, so kann die Gegenleistung insoweit nicht verweigert werden, als die Verweigerung nach den Umständen, insbesondere wegen verhältnismäßiger Geringfügigkeit des rückständigen Teils, gegen Treu und Glauben verstoßen würde.</p>",
+                    "law_code": {
+                        "id": 724,
+                        "code_string": "bgb",
+                        "name": "BGB"
+                    }
+                }
+            },
+            {
+                "id": 5568,
+                "end_sec": null,
+                "start_sec": 560.17505,
+                "video_note": null,
+                "law_text": {
+                    "id": 12112,
+                    "code_id": 724,
+                    "paragraph": "§ 273",
+                    "text": "<p>(1) Hat der Schuldner aus demselben rechtlichen Verhältnis, auf dem seine Verpflichtung beruht, einen fälligen Anspruch gegen den Gläubiger, so kann er, sofern nicht aus dem Schuldverhältnis sich ein anderes ergibt, die geschuldete Leistung verweigern, bis die ihm gebührende Leistung bewirkt wird (Zurückbehaltungsrecht).</p><p>(2) Wer zur Herausgabe eines Gegenstands verpflichtet ist, hat das gleiche Recht, wenn ihm ein fälliger Anspruch wegen Verwendungen auf den Gegenstand oder wegen eines ihm durch diesen verursachten Schadens zusteht, es sei denn, dass er den Gegenstand durch eine vorsätzlich begangene unerlaubte Handlung erlangt hat.</p><p>(3) Der Gläubiger kann die Ausübung des Zurückbehaltungsrechts durch Sicherheitsleistung abwenden. Die Sicherheitsleistung durch Bürgen ist ausgeschlossen.</p>",
+                    "law_code": {
+                        "id": 724,
+                        "code_string": "bgb",
+                        "name": "BGB"
+                    }
+                }
+            }
+        ]
+    }
+]
