@@ -11,6 +11,7 @@ import { SiteHeader } from "./components/layout/SiteHeader";
 import { SiteFooter } from "./components/layout/SiteFooter";
 import { LibraryProvider } from "./context/LibraryContext";
 import Library from "./pages/Library";
+import GA from "@/components/GA";
 
 const queryClient = new QueryClient();
 
@@ -22,6 +23,7 @@ const App = () => (
           <Toaster />
           <Sonner />
           <BrowserRouter>
+            <GA />
             <SiteHeader />
             <main className="min-h-screen">
               <Routes>
